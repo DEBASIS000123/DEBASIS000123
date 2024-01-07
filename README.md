@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debasis Mishra</h1>
 <div align="cemter"><img src="" alt="banner"></div>
 <h3 align="center">A passionate Web3 developer from India.</h3>
-<img align="right" alt="coding image" src="">
+<img align="right" alt="coding image" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasis000123&label=Profile%20views&color=0e75b6&style=flat" alt="debasis000123" /> </p>
 
 - 🔭 I’m currently working on **Project**
