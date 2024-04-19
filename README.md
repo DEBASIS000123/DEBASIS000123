@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DEBASIS000123](https://github.com/DEBASIS000123)
+- 👨‍💻 All of my projects are available at https://gleaming-shortbread-57a1f8.netlify.app/
 
 - 📫 How to reach me **debasismishra000123@gmail.com**
 
