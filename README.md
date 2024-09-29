@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at <a href="https://debasismishra.netlify.app/" >Here.</a>
+- 👨‍💻 All of my projects are available at <a href="https://debasismishra.netlify.app/" target='_blank'>Here.</a>
 
 - 📫 How to reach me **debasismishra000123@gmail.com**
 
